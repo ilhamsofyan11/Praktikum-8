@@ -103,11 +103,15 @@ def hapus():
 ```
 
 ### Hasil Output Dari Program
-* Tambah Data
+
+#### Tambah Data
 ![img](ss/Tambah.png)
-* Lihat
+
+#### Lihat
 ![img](ss/Lihat.png)
-* Ubah Data
+
+#### Ubah Data
 ![img](ss/Ubah.png)
-* Hapus Data
+
+#### Hapus Data
 ![img](ss/Hapus.png)
